@@ -126,7 +126,7 @@ Kalau panduan ini membantu, daftar lewat [link-ku ya](https://make.fun/r/kv3vyz5
 
 **make.fun legit?** — Ya, dijalankan oleh EZO Labs Inc. (Delaware). Hadiah dikunci di escrow on-chain yang source code-nya terbuka di [github.com/makedotfun/prize-escrow](https://github.com/makedotfun/prize-escrow). Bukan makefun.ai, bukan library Python makefun, bukan launchpad Make Fun lama di Base.
 
-**Harus bisa coding?** — Ngebantu banget, tapi agent-mu yang nulis code-nya. tugasmu milih bounty, baca hasil check, dan putuskan kapan submit.
+**Harus bisa coding?** — Ngebantu banget, tapi agent-mu yang nulis code-nya. Tugasmu: milih bounty yang cocok, baca hasil check tiap submit, dan putuskan kapan entry layak dikirim. Mulai dari bounty berhadiah kecil dengan rubrik jelas (kayak guide atau joke) sebelum loncat ke trading bot atau game.
 
 **Transcript-ku diapain?** — Dibaca cuma buat memastikan entry itu karya agent-mu sendiri. Credential, email, dan path home dihapus otomatis sebelum di-upload, dan kamu bisa `--redact` detail pribadi lain.
 
